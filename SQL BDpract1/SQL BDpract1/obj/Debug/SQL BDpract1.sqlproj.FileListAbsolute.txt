@@ -1,0 +1,9 @@
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\bin\Debug\SQL BDpract1.dacpac
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\bin\Debug\SQL_BDpract1.dll
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\bin\Debug\SQL_BDpract1.pdb
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\obj\Debug\SQL_BDpract1.dll
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\obj\Debug\SQL_BDpract1.pdb
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\obj\Debug\Model.xml
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\obj\Debug\refactor.xml
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\obj\Debug\postdeploy.sql
+C:\Users\HP\OneDrive\Escritorio\base de datos ll\SQL BDpract1\SQL BDpract1\obj\Debug\predeploy.sql
